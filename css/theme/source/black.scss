@@ -13,7 +13,8 @@
 
 // Include theme-specific fonts
 // @import url(./fonts/source-sans-pro/source-sans-pro.css);
-@import url(./fonts/source-sans-pro/league-gothic.css);
+// @import url(./fonts/source-sans-pro/league-gothic.css);
+
 
 
 // Override theme settings (see ../template/settings.scss)
@@ -24,9 +25,11 @@ $headingColor: #fcfcfc;
 
 $mainFontSize: 30px; // 42px;
 // $mainFont: 'Source Sans Pro', Helvetica, sans-serif;
-$mainFont: 'League Gothic', sans-serif;
+// $mainFont: 'League Gothic', sans-serif;
+$mainFont: 'Supreme-Regular', serif;
 // $headingFont: 'Source Sans Pro', Helvetica, sans-serif;
-$headingFont: 'League Gothic', sans-serif;
+// $headingFont: 'League Gothic', sans-serif;
+$headingFont: 'Supreme-Regular', sans-serif;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;
